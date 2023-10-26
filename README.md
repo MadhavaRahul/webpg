@@ -1,2 +1,2 @@
 # webpg
-This is my basics web project
+This is my basic web project
